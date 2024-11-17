@@ -19,7 +19,7 @@ This repository hosts Python assignments I completed as part of my coursework (o
 To get started with this repository, clone it to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/python-assignment-repository.git
+git clone https://github.com/blackclover07/Python_Assignment.git
 ```
 ## Assignment Details
 
